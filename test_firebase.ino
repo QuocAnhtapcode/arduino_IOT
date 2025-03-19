@@ -11,10 +11,10 @@
 #define WIFI_PASSWORD "HelloWorld"
 
 // Firebase credentials
-#define API_KEY "AIzaSyBCAWLjcEITlQT8fLpOd_2Y76VHz_v_u04"
-#define USER_EMAIL "quocanh20102003@gmail.com"
-#define USER_PASSWORD "quocanh2003"
-#define DATABASE_URL "https://esp-firebase-demo-b87a1-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define API_KEY ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
+#define DATABASE_URL ""
 
 // Sensor and LED pins
 #define DHT_PIN 21
